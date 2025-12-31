@@ -25,15 +25,9 @@ Ez a projekt egy **DHT22 hőmérséklet és páratartalom szenzort** használ, �
 ## Projekt elérhetőség
 **https://wokwi.com/projects/451599922999454721**
 
-## Telepítés
+## Projekt tesztelése
+**Miután fut a wokwin-n a projekt, a DHT22-re kattintva tudjuk módositani a hőmérsékletet és a páratartalmat, ami a LCD képernyőn 5 mp múlva frissül be, tehát kicsit várni kell.**
 
-1. Másold a projektet a számítógépedre.
-2. Nyisd meg az **Arduino IDE-ben**.
-3. Telepítsd a szükséges könyvtárakat:
-   - [DHT sensor library](https://github.com/adafruit/DHT-sensor-library)
-   - [LiquidCrystal_I2C](https://github.com/johnrickman/LiquidCrystal_I2C)
-4. Ellenőrizd, hogy a **DHTPIN** és az **I2C pin-ek** helyesen vannak beállítva a kódban.
-5. Töltsd fel a kódot a fejlesztőlapra.
 
 ## 🔧 Kód használata
 
